@@ -31,6 +31,7 @@
 - **#OrbisTeam**
 - **#Specter**
 - **#Al-Azif**
+- **#NazkyYT**
 - **#y a toda la comunidad PS4**
 
 ---
