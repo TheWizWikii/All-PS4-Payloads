@@ -22,6 +22,8 @@
 - GoldHen (Permite habilitar debug settings, instalar / cargar juegos y hombrew)
 - MiraLoader (Permite desbloquear candados y debug settings para instalar juegos)
 
+---
+
 ### Credits:
 
 - **#Sistro** 
